@@ -1,4 +1,5 @@
 # Telecom Customer Churn Analysis Dashboard
+![PowerBI customer churn dashboard](<screenshots/power bi dashboard.png>)
 
 ## Project Links
 - **Power BI Dashboard:** [View Dashboard](your-power-bi-link-here)
