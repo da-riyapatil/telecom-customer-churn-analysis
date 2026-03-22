@@ -1,9 +1,8 @@
 # Telecom Customer Churn Analysis Dashboard
-## Project Links
-- **Power BI Dashboard:** [View Dashboard](your-power-bi-link-here)
-
 ![PowerBI customer churn dashboard](<screenshots/power bi dashboard.png>)
 
+## Project Links
+- **Power BI Dashboard:** [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUyZjJlNTMtNjYxNC00Y2VjLWI2YTYtYmYzNzQ0ODdlOTMxIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 ## Summary
 This project is a **Forage internship-style telecom churn analysis project** based on a provided dataset and business problem.
