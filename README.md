@@ -32,12 +32,19 @@ It helps answer questions such as:
 - Dashboard design and KPI reporting
 
 ## Key Insights
-- Overall churn rate is **26.54%**
-- **Month-to-month** customers have the highest churn
-- **Fiber optic** customers show higher churn than other internet service groups
-- Customers using **electronic check** have the highest churn among payment methods
-- Customers without **tech support** or **online security** churn more
-- Churn is highest in the **early tenure** stage
+- Month-to-month customers had the highest churn rate at 42.71% vs 11.27% for one-year and 2.83% for two-year contracts
+- Fiber optic customers showed 41.89% churn, higher than DSL at 18.96% and no internet service at 7.40%
+- Electronic check users had the highest churn rate at 45.29%, while automatic payment methods were lower at 15% to 17%
+- Customers without support services churned far more, including 41.77% without Online Security and 41.64% without Tech Support
+- Customers in their first 0 to 12 months had 47.44% churn vs 17.13% for customers with longer tenure
+- A high-risk segment (month-to-month + electronic check + fiber optic) showed about 60.37% churn across 1,307 customers
+
+## Business Recommendations
+- Target month-to-month customers with retention offers and contract upgrades
+- Improve service experience for fiber users to reduce churn in that segment
+- Encourage automatic payment methods to lower churn risk
+- Promote support services to improve customer retention
+- Focus on early-stage customer engagement to reduce first-year churn
 
 ## Repository Structure
 ```text
