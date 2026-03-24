@@ -27,6 +27,7 @@ It helps answer questions such as:
 ## Tools & Technologies
 - **Power BI**
 - **DAX**
+- **Power Query**
 - Data cleaning and preparation
 - Dashboard design and KPI reporting
 
@@ -66,8 +67,3 @@ telecom-customer-churn-analysis/
 - Open powerbi/churn_dashboard.pbix in Power BI Desktop to review the report
 - Check the screenshots/ folder for dashboard images
 - Read the files in docs/ for project summary, insights, and Power BI Service notes
-
-## Note
-
-This was a guided internship-style analytics project, where the dataset and business problem were already provided.
-My contribution focused on data preparation, DAX calculations, dashboard development, and churn analysis in Power BI.
